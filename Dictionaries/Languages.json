@@ -1,0 +1,178 @@
+{
+
+  "en": {
+
+    "CLEAR": {
+      "print": "Clear",
+      "code": 11
+    },
+
+    "SUNNY": {
+      "print": "Clear",
+      "code": 12
+    },
+
+    "STARRY": {
+      "print": "Clear",
+      "code": 13
+    },    
+
+    "FOGGY": {
+      "print": "Haze",
+      "code": 21
+    },    
+
+    "SMOKE": {
+      "print": "Smoke",
+      "code": 21
+    },    
+
+    "SMOKY": {
+      "print": "Smoky",
+      "code": 21
+    },    
+
+    "DUST": {
+      "print": "Dust",
+      "code": 22
+    },    
+
+    "HAZE": {
+      "print": "Haze",
+      "code": 22
+    },    
+
+    "MOSTLY CLEAR": {
+      "print": "Mostly Clear",
+      "code": 31
+    },    
+
+    "PARTLY CLOUDY": {
+      "print": "Partly Cloudy",
+      "code": 32
+    },    
+
+    "MOSTLY CLOUDY": {
+      "print": "Mostly Cloudy",
+      "code": 33
+    },    
+
+    "CLOUDY": {
+      "print": "Cloudy",
+      "code": 34
+    },    
+
+    "DRIZZLE": {
+      "print": "Drizzle",
+      "code": 41
+    },
+
+    "SHOWERS": {
+      "print": "Showers",
+      "code": 41
+    },
+
+    "SCATTERED SHOWERS": {
+      "print": "Showers",
+      "code": 41
+    },
+
+    "RAIN": {
+      "print": "Rain",
+      "code": 42
+    },
+
+    "HEAVY RAIN": {
+      "print": "Heavy Rain",
+      "code": 42
+    },
+
+    "SCATTERED THUNDERSTORMS": {
+      "print": "Thunderstorms",
+      "code": 43
+    },
+
+    "ISOLATED THUNDERSTORMS": {
+      "print": "Thunderstorms",
+      "code": 43
+    },
+
+    "ISOLATED THUNDERSHOWERS": {
+      "print": "Thunderstorms",
+      "code": 43
+    },
+
+    "THUNDERSTORMS": {
+      "print": "Thunderstorms",
+      "code": 43
+    },
+
+    "FREEZING RAIN": {
+      "print": "Freezing Rain",
+      "code": 44
+    },
+
+    "LIGHT SNOW SHOWERS": {
+      "print": "Snow Showers",
+      "code": 51
+    },
+
+    "SNOW SHOWERS": {
+      "print": "Snow Showers",
+      "code": 52
+    },
+
+    "SCATTERED SNOW SHOWERS": {
+      "print": "Snow Showers",
+      "code": 52
+    },
+
+    "BLOWING SNOW": {
+      "print": "Blowing Snow",
+      "code": 52
+    },
+
+    "SNOW": {
+      "print": "Snow",
+      "code": 53
+    },
+
+    "MIXED RAIN AND SNOW": {
+      "print": "Rain and Snow",
+      "code": 54
+    },
+
+    "MIXED SNOW AND SLEET": {
+      "print": "Rain and Snow",
+      "code": 54
+    },
+
+    "TORNADO": {
+      "print": "Tornado",
+      "code": 99
+    },
+
+    "WINDY": {
+      "print": "Windy",
+      "code": 61
+    },
+
+
+
+
+}, //end en
+
+
+  "es": {
+    "Condition": {
+      "print": "Conditiony",
+      "code": 9
+    },
+    "Condition2": {
+      "print": "Conditiony",
+      "code": 1
+    }
+  },
+//end es
+
+}

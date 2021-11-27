@@ -1,0 +1,250 @@
+{
+  "Classic": {
+    "12": {
+      "Text 1 Y": 2294,
+      "Text 2 Y": 2345,
+      "Text 2 X": 585,
+      "Text 1 X": 585,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2450,
+      "Text 2 Size": 35
+    },
+    "X": {
+      "Text 1 Y": 2208,
+      "Text 2 Y": 2252,
+      "Text 2 X": 563,
+      "Text 1 X": 563,
+      "Text 1 Size": 42,
+      "Text 3 Y": 2357,
+      "Text 2 Size": 30
+    },
+    "12PM": {
+      "Text 1 Y": 2512,
+      "Text 2 Y": 2563,
+      "Text 2 X": 642,
+      "Text 1 X": 642,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2668,
+      "Text 2 Size": 35
+    },
+    "XSM": {
+      "Text 1 Y": 2430,
+      "Text 2 Y": 2472,
+      "Text 2 X": 621,
+      "Text 1 X": 621,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2577,
+      "Text 2 Size": 35
+    },
+    "Text 2 Color": "White",
+    "Text 1 Align": "center",
+    "XR": {
+      "Text 1 Y": 1625,
+      "Text 2 Y": 1654,
+      "Text 2 X": 414,
+      "Text 1 X": 414,
+      "Text 1 Size": 30,
+      "Text 3 Y": 1726,
+      "Text 2 Size": 22
+    },
+    "Text 2 Align": "center",
+    "12m": {
+      "Text 1 Y": 2108,
+      "Text 2 Y": 2152,
+      "Text 2 X": 540,
+      "Text 1 X": 540,
+      "Text 1 Size": 38,
+      "Text 3 Y": 2257,
+      "Text 2 Size": 28
+    },
+    "Saturation": 118,
+    "Text 1 Color": "White",
+    "Blur": 15
+  },
+  "Clear": {
+    "12": {
+      "Text 1 Y": 2294,
+      "Text 2 Y": 2345,
+      "Text 2 X": 585,
+      "Text 1 X": 585,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2450,
+      "Text 2 Size": 35
+    },
+    "X": {
+      "Text 1 Y": 2208,
+      "Text 2 Y": 2252,
+      "Text 2 X": 563,
+      "Text 1 X": 563,
+      "Text 1 Size": 42,
+      "Text 3 Y": 2357,
+      "Text 2 Size": 30
+    },
+    "12PM": {
+      "Text 1 Y": 2512,
+      "Text 2 Y": 2563,
+      "Text 2 X": 642,
+      "Text 1 X": 642,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2668,
+      "Text 2 Size": 35
+    },
+    "XSM": {
+      "Text 1 Y": 2430,
+      "Text 2 Y": 2472,
+      "Text 2 X": 621,
+      "Text 1 X": 621,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2577,
+      "Text 2 Size": 35
+    },
+    "Text 2 Color": "White",
+    "Text 1 Align": "center",
+    "XR": {
+      "Text 1 Y": 1625,
+      "Text 2 Y": 1654,
+      "Text 2 X": 414,
+      "Text 1 X": 414,
+      "Text 1 Size": 30,
+      "Text 3 Y": 1726,
+      "Text 2 Size": 22
+    },
+    "Text 2 Align": "center",
+    "12m": {
+      "Text 1 Y": 2108,
+      "Text 2 Y": 2152,
+      "Text 2 X": 540,
+      "Text 1 X": 540,
+      "Text 1 Size": 38,
+      "Text 3 Y": 2257,
+      "Text 2 Size": 28
+    },
+    "Saturation": 60,
+    "Text 1 Color": "White",
+    "Blur": 4
+  },
+  "Light": {
+    "12": {
+      "Text 1 Y": 2294,
+      "Text 2 Y": 2345,
+      "Text 2 X": 585,
+      "Text 1 X": 585,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2450,
+      "Text 2 Size": 35
+    },
+    "X": {
+      "Text 1 Y": 2208,
+      "Text 2 Y": 2252,
+      "Text 2 X": 563,
+      "Text 1 X": 563,
+      "Text 1 Size": 42,
+      "Text 3 Y": 2357,
+      "Text 2 Size": 30
+    },
+    "12PM": {
+      "Text 1 Y": 2512,
+      "Text 2 Y": 2563,
+      "Text 2 X": 642,
+      "Text 1 X": 642,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2668,
+      "Text 2 Size": 35
+    },
+    "XSM": {
+      "Text 1 Y": 2430,
+      "Text 2 Y": 2472,
+      "Text 2 X": 621,
+      "Text 1 X": 621,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2577,
+      "Text 2 Size": 35
+    },
+    "Text 2 Color": "Black",
+    "Text 1 Align": "center",
+    "XR": {
+      "Text 1 Y": 1625,
+      "Text 2 Y": 1654,
+      "Text 2 X": 414,
+      "Text 1 X": 414,
+      "Text 1 Size": 30,
+      "Text 3 Y": 1726,
+      "Text 2 Size": 22
+    },
+    "Text 2 Align": "center",
+    "12m": {
+      "Text 1 Y": 2108,
+      "Text 2 Y": 2152,
+      "Text 2 X": 540,
+      "Text 1 X": 540,
+      "Text 1 Size": 38,
+      "Text 3 Y": 2257,
+      "Text 2 Size": 28
+    },
+    "Saturation": 250,
+    "Text 1 Color": "Black",
+    "Blur": 33
+  },
+  "Dark": {
+    "12": {
+      "Text 1 Y": 2294,
+      "Text 2 Y": 2345,
+      "Text 2 X": 585,
+      "Text 1 X": 585,
+      "Text 1 Size": 43,
+      "Text 3 Y": "2450",
+      "Text 2 Size": 35
+    },
+    "X": {
+      "Text 1 Y": 2208,
+      "Text 2 Y": 2252,
+      "Text 2 X": 563,
+      "Text 1 X": 563,
+      "Text 1 Size": 42,
+      "Text 3 Y": 2357,
+      "Text 2 Size": 30
+    },
+    "12PM": {
+      "Text 1 Y": 2512,
+      "Text 2 Y": 2563,
+      "Text 2 X": 642,
+      "Text 1 X": 642,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2668,
+      "Text 2 Size": 35
+    },
+    "XSM": {
+      "Text 1 Y": 2430,
+      "Text 2 Y": 2472,
+      "Text 2 X": 621,
+      "Text 1 X": 621,
+      "Text 1 Size": 43,
+      "Text 3 Y": 2577,
+      "Text 2 Size": 35
+    },
+    "Text 2 Color": "White",
+    "Text 1 Align": "center",
+    "XR": {
+      "Text 1 Y": 1625,
+      "Text 2 Y": 1654,
+      "Text 2 X": 414,
+      "Text 1 X": 414,
+      "Text 1 Size": 30,
+      "Text 3 Y": 1709,
+      "Text 2 Size": 22
+    },
+    "Text 2 Align": "center",
+    "12m": {
+      "Text 1 Y": 2108,
+      "Text 2 Y": 2152,
+      "Text 2 X": 540,
+      "Text 1 X": 540,
+      "Text 1 Size": 38,
+      "Text 3 Y": 2257,
+      "Text 2 Size": 28
+    },
+    "Saturation": 150,
+    "Text 1 Color": "White",
+    "Blur": 22
+  }
+}

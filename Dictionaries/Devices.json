@@ -1,0 +1,92 @@
+{
+  "iPhone 12 Pro Max": {
+    "dir": "12PM",
+    "group": "12PM",
+    "width": 1284,
+    "height": 2778
+  },
+  "iPhone 11": {
+    "dir": "XR",
+    "group": "XR",
+    "width": 828,
+    "height": 1792
+  },
+  "iPhone 13 Pro": {
+    "dir": "12P",
+    "group": "12",
+    "height": 2532,
+    "width": 1170
+  },
+  "iPhone 12": {
+    "dir": "12",
+    "group": "12",
+    "width": 1170,
+    "height": 2532
+  },
+  "iPhone 12 Pro": {
+    "dir": "12P",
+    "group": "12",
+    "width": 1170,
+    "height": 2532
+  },
+  "iPhone XS Max": {
+    "dir": "XSM",
+    "group": "XSM",
+    "width": 1242,
+    "height": 2688
+  },
+  "iPhone X": {
+    "dir": "X",
+    "group": "X",
+    "width": 1125,
+    "height": 2436
+  },
+  "iPhone XR": {
+    "dir": "XR",
+    "group": "XR",
+    "width": 828,
+    "height": 1792
+  },
+  "iPhone 13 Pro Max": {
+    "dir": "12PM",
+    "group": "12PM",
+    "width": 1284,
+    "height": 2778
+  },
+  "iPhone 13": {
+    "dir": "12",
+    "group": "12",
+    "width": 1170,
+    "height": 2532
+  },
+  "iPhone 13 mini": {
+    "dir": "12m",
+    "group": "12m",
+    "width": 1080,
+    "height": 2340
+  },
+  "iPhone 11 Pro": {
+    "dir": "X",
+    "group": "X",
+    "width": 1125,
+    "height": 2436
+  },
+  "iPhone XS": {
+    "dir": "X",
+    "group": "X",
+    "width": 1125,
+    "height": 2436
+  },
+  "iPhone 11 Pro Max": {
+    "dir": "XSM",
+    "group": "XSM",
+    "width": 1242,
+    "height": 2688
+  },
+  "iPhone 12 mini": {
+    "dir": "12m",
+    "group": "12m",
+    "width": 1080,
+    "height": 2340
+  }
+}
